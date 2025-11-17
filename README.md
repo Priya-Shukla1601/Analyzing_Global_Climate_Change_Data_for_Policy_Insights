@@ -3,14 +3,14 @@ This project presents a comprehensive Exploratory Data Analysis (EDA) of a globa
 
 The project includes:
 
-Thorough data understanding and preparation, addressing missing values, inconsistencies, and outliers.
+- Thorough data understanding and preparation, addressing missing values, inconsistencies, and outliers.
 
-A structured EDA workflow, covering univariate, bivariate, and multivariate analysis across climate indicators such as temperature, CO₂ emissions, rainfall, sea-level rise, population, and renewable-energy usage.
+- A structured EDA workflow, covering univariate, bivariate, and multivariate analysis across climate indicators such as temperature, CO₂ emissions, rainfall, sea-level rise, population, and renewable-energy      usage.
 
-A set of targeted analytical questions designed to explore climate trends across countries and years.
+- A set of targeted analytical questions designed to explore climate trends across countries and years.
 
-Key insights translated into real-world policy recommendations, highlighting opportunities in areas like renewable-energy adoption, emissions control, and ecosystem protection.
+- Key insights translated into real-world policy recommendations, highlighting opportunities in areas like renewable-energy adoption, emissions control, and ecosystem protection.
 
-Interactive visualizations/dashboard for clear communication of findings to policymakers.
+- Interactive visualizations/dashboard for clear communication of findings to policymakers.
 
 This repository demonstrates how analytical thinking, data exploration, and visualization can guide impactful decisions in global climate resilience.
